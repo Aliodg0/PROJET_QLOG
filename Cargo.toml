@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = ["env", "lgp"]
+
+[workspace.dependencies]
+rand = "0.10.2"
